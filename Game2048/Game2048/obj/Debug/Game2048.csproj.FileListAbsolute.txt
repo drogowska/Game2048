@@ -1,0 +1,20 @@
+C:\Users\Stopcia\Desktop\io\Game2048\Game2048\bin\Debug\Game2048.exe.config
+C:\Users\Stopcia\Desktop\io\Game2048\Game2048\bin\Debug\Game2048.exe
+C:\Users\Stopcia\Desktop\io\Game2048\Game2048\bin\Debug\Game2048.pdb
+C:\Users\Stopcia\Desktop\io\Game2048\Game2048\obj\Debug\Game2048.csprojAssemblyReference.cache
+C:\Users\Stopcia\Desktop\io\Game2048\Game2048\obj\Debug\Game2048.Game.resources
+C:\Users\Stopcia\Desktop\io\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+C:\Users\Stopcia\Desktop\io\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+C:\Users\Stopcia\Desktop\io\Game2048\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+C:\Users\Stopcia\Desktop\io\Game2048\Game2048\obj\Debug\Game2048.exe
+C:\Users\Stopcia\Desktop\io\Game2048\Game2048\obj\Debug\Game2048.pdb
+E:\Folder\studia\semestr 4\Inżyniernia oprogramowania\laby\wzorce\io\Game2048\Game2048\bin\Debug\Game2048.exe.config
+E:\Folder\studia\semestr 4\Inżyniernia oprogramowania\laby\wzorce\io\Game2048\Game2048\bin\Debug\Game2048.exe
+E:\Folder\studia\semestr 4\Inżyniernia oprogramowania\laby\wzorce\io\Game2048\Game2048\bin\Debug\Game2048.pdb
+E:\Folder\studia\semestr 4\Inżyniernia oprogramowania\laby\wzorce\io\Game2048\Game2048\obj\Debug\Game2048.csprojAssemblyReference.cache
+E:\Folder\studia\semestr 4\Inżyniernia oprogramowania\laby\wzorce\io\Game2048\Game2048\obj\Debug\Game2048.Game.resources
+E:\Folder\studia\semestr 4\Inżyniernia oprogramowania\laby\wzorce\io\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+E:\Folder\studia\semestr 4\Inżyniernia oprogramowania\laby\wzorce\io\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+E:\Folder\studia\semestr 4\Inżyniernia oprogramowania\laby\wzorce\io\Game2048\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+E:\Folder\studia\semestr 4\Inżyniernia oprogramowania\laby\wzorce\io\Game2048\Game2048\obj\Debug\Game2048.exe
+E:\Folder\studia\semestr 4\Inżyniernia oprogramowania\laby\wzorce\io\Game2048\Game2048\obj\Debug\Game2048.pdb
